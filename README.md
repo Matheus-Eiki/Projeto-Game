@@ -3,3 +3,7 @@ git init
 git config --global user.name "Nome"
 git config --global user.email email
 Realizar a limpeza, (apagar o app.css, os pngs, acima da function no app.jsx, o state e dentro das <> e apagar tudo dentro do index)
+npm install
+npm run dev
+baixar ES7
+criar pasta components e routes e styles
