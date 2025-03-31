@@ -26,3 +26,5 @@ npm install styled-components
 7) criando as pastas components, routes, styles dentro de src
 8) instalar as dependencias que serão utilizadas no projeto: npm install react-router-dom
 npm install styled-components
+9) Verificar se tem a extenção ES7 React/Redux/GraphQL/React-Native snippets
+10) criando os componentes do projeto com o comando rafce
