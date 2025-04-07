@@ -16,7 +16,7 @@ export const FooterContainer =styled.div`
     
     }
     ul{
-        ist-style>none;
+        list-style:none;
         padding: 0px;
     }
 
