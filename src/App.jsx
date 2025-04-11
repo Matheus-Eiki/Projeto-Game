@@ -51,10 +51,11 @@ function App() {
 
   return (
     <Router>
+      <GlobalStyle/>
       <Header/>
       <Routes>
         <Route path="*" element={<Error/>}/>
-        <Route path ="/" element={<Home/>}/>
+        <Route path ="/" element={<Home Dados={Dados}/>}/>
         <Route path="/login" element={<Login/>}/>
         <Route path="/filtro" element={<Filtro/>}/>
         <Route path="/jogador" element={<Jogador/>}/>
